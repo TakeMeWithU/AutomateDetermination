@@ -5,7 +5,7 @@ Le projet est organis´e en deux parties, d´ependantes l’une de l’autre :
 <br>— La d'eterminisation
 
 
-## Installation
+## Installation
 sh install.sh
 
 
