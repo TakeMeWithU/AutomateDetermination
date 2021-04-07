@@ -11,5 +11,3 @@ sh install.sh
 
 ## Launch
 sh launch.sh
-or 
-python3 src/Moteur.py

@@ -28,7 +28,7 @@ class AEFND:
             P.append(e)
         
         while P != []:
-            t = P[0]
+            t = P[len(P)-1]
             if not t in F:
                 F.append(t)
                 trans_t = self.getTransitionsOf(t)
