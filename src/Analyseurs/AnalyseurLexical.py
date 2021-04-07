@@ -183,4 +183,3 @@ class AnalyseurLexical:
                     print("-- Fin de phrase --")
                 print("Fin de traitement")
                 break
-            
