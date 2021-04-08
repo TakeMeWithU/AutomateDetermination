@@ -6,8 +6,8 @@ Le projet est organis´e en deux parties, d´ependantes l’une de l’autre :
 
 
 ## Authors
-LE Bao Minh
-PROSSAIRD Hugo
+LE Bao Minh<br>
+PROSSAIRD Hugo<br>
 BELMOKHTAR Bilal
 
 
